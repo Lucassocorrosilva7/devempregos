@@ -1,3 +1,3 @@
 <div>
-    <h1>Livewire</h1>
+    <h1>livewire</h1>
 </div>
